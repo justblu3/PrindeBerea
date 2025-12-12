@@ -11,7 +11,7 @@ Ai nevoie de Python 3 instalat și următoarele librării:
 
 ```bash
 pip install pyautogui opencv-python pillow
-Nota: opencv-python este necesar pentru parametrul confidence.
+Nota: opencv-python este necesar pentru parametrul confidence!
 
 ⚙️ Configurare
 Înainte de rulare, deschide fișierul scriptului și modifică clasa Config de la început:
