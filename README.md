@@ -3,7 +3,7 @@
 
 Un bot automatizat scris în Python care prinde obiecte (beri) într-un joc folosind recunoașterea imaginilor (`pyautogui`).
 
-Botul folosește logica **"Edge Catching"**: nu se centrează perfect pe obiect, ci se mișcă doar atât cât este necesar pentru a prinde obiectul cu marginea lăzii, maximizând astfel eficiența și permițând prinderea mai multor obiecte simultan.
+Botul folosește logica **"Edge Catching"**: nu se centrează perfect pe obiect; ci se mișcă doar atât cât este necesar pentru a prinde obiectul cu marginea lăzii, maximizând astfel eficiența și permițând prinderea mai multor obiecte simultan.
 
 ## 📋 Cerințe
 
