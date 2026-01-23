@@ -5,7 +5,7 @@ Un bot automatizat scris în Python care prinde obiecte (beri) într-un joc folo
 
 Botul folosește logica **"Edge Catching"**: nu se centrează perfect pe obiect; ci se mișcă doar atât cât este necesar pentru a prinde obiectul cu marginea lăzii, maximizând astfel eficiența și permițând prinderea mai multor obiecte simultan.
 
-## 📋 Cerințe
+## 📋 Cerințe:
 
 Ai nevoie de Python 3 instalat și următoarele librării:
 
